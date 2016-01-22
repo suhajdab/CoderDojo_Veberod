@@ -1,2 +1,2 @@
-# CoderDojo_Veberod
-CoderDojo Veberöd
+# CoderDojo Veberöd
+
